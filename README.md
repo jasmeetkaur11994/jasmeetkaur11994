@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasmeetkaur11994&label=Profile%20views&color=0e75b6&style=flat" alt="jasmeetkaur11994" /> </p>
 
-- 🔭 I’m currently working on **Deep Learning Mdels**
+- 🔭 I’m currently working on **Deep Learning Models**
 
 - 💬 Ask me about **SQL, Python, Tableau, Power BI, AI/ML**
 
